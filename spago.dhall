@@ -18,5 +18,5 @@
 , packages =
     ./packages.dhall
 , sources =
-    [ "src/**/*.purs", "test/**/*.purs" ]
+    [ "example/**/*.purs", "src/**/*.purs", "test/**/*.purs" ]
 }
